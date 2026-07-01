@@ -9,32 +9,28 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        // using unordered set
+        // most optimised solution 
+        // without using any unorderd set and orddered maps 
+     
+     if(headA==nullptr || headB== nullptr)return NULL;
 
 
-        unordered_set<ListNode*>visited;
+           ListNode*temp1=headA;
+           ListNode*temp2=headB;
 
 
-           ListNode*currA=headA;
-           ListNode*currB=headB;
+           while(temp1 != temp2){
+            temp1=temp1->next;
+            temp2=temp2->next;
 
-
-           while(currA != nullptr ){
-            visited.insert(currA);
-            currA=currA->next;
-           }
-
-
+            if(temp1==temp2)return temp2;
            
-           while(currB != nullptr ){
-            if(visited.count(currB)){
-                return currB;
+            if(temp1==NULL) temp1 =headB;
+            if(temp2==NULL) temp2 =headA;
 
-            }
-            currB=currB->next;
            }
 
-        return nullptr;
+        return temp2;
         
     }
 };
