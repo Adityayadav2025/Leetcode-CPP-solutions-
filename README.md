@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0039-combination-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
