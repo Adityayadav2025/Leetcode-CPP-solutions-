@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
 |  |
 | ------- |
