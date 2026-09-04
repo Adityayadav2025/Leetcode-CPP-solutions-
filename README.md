@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0039-combination-sum) |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Quicksort
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3903-smallest-stable-index-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
