@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -159,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
