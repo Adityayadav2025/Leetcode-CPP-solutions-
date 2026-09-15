@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0039-combination-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -202,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
