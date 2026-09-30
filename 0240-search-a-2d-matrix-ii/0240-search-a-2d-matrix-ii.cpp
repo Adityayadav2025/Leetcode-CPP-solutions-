@@ -5,14 +5,27 @@ public:
             return false;
 
         }
-        for(int i=0;i<matrix.size();i++){
-            for(int j=0;j<matrix[i].size();j++){
-                if(matrix[i][j]==target){
-                    return true ;
-                }
-            }
-        }
-        return false;
+        int rows=matrix.size();
+        int cols=matrix[0].size();
+
+        int row=0;
+        int col=cols-1;
         
+
+        while(row<rows && col>=0){
+            int current =matrix[row][col];
+            if(current == target ){
+                return true ;
+            }
+            else if(current>target){
+                col--;
+            }
+            else {
+                row++;
+
+            }
+
+        }
+        return false ;
     }
 };
