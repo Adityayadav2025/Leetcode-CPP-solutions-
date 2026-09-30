@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0039-combination-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3498-reverse-degree-of-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
