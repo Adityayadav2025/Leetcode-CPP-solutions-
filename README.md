@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0020-valid-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
