@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
