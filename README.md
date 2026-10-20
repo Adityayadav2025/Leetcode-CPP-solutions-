@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
 ## Database
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2778-sum-of-squares-of-special-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
