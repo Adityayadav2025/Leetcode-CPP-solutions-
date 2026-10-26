@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0877-stone-game) |
+| [1518-water-bottles](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1518-water-bottles) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
