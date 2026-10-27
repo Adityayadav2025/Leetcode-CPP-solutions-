@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
