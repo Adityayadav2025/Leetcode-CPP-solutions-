@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
