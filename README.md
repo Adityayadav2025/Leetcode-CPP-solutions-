@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0877-stone-game) |
 ## Minimax
 |  |
