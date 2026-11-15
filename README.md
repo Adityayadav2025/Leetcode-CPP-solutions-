@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0877-stone-game) |
 | [1518-water-bottles](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Adityayadav2025/Leetcode-CPP-solutions-/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
